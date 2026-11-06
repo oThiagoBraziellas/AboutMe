@@ -331,6 +331,29 @@ Products change. Architecture should make change easier, not harder.
 ---
 
 
+# Projects
+
+Systems and algorithms I build from scratch, with tests and no external dependencies.
+
+| Project | Language | Description |
+|---|---|---|
+| [ConsistentHashRingPython](https://github.com/oThiagoBraziellas/ConsistentHashRingPython) | Python | Consistent hashing ring with virtual nodes |
+| [KeyValueStorePython](https://github.com/oThiagoBraziellas/KeyValueStorePython) | Python | Persistent key-value store on a write-ahead log |
+| [LogAnalyzerPython](https://github.com/oThiagoBraziellas/LogAnalyzerPython) | Python | Streaming nginx-style access log analyzer |
+| [LruCachePython](https://github.com/oThiagoBraziellas/LruCachePython) | Python | Thread-safe LRU cache with O(1) operations and TTL |
+| [MiniRedisPython](https://github.com/oThiagoBraziellas/MiniRedisPython) | Python | Redis-compatible (RESP2) TCP server |
+| [RateLimiterPython](https://github.com/oThiagoBraziellas/RateLimiterPython) | Python | Token bucket and sliding window rate limiters |
+| [SearchEnginePython](https://github.com/oThiagoBraziellas/SearchEnginePython) | Python | Full-text search with inverted index and BM25 |
+| [TaskQueuePython](https://github.com/oThiagoBraziellas/TaskQueuePython) | Python | Persistent task queue with workers and retry backoff |
+| [UrlShortenerPython](https://github.com/oThiagoBraziellas/UrlShortenerPython) | Python | Base62 URL shortener with SQLite and CLI |
+| [WebCrawlerPython](https://github.com/oThiagoBraziellas/WebCrawlerPython) | Python | Concurrent crawler that respects robots.txt |
+| [ChatServerCSharp](https://github.com/oThiagoBraziellas/ChatServerCSharp) | C# | Async TCP chat server with rooms (.NET 8) |
+| [EventBusCSharp](https://github.com/oThiagoBraziellas/EventBusCSharp) | C# | In-memory async event bus on Channels (.NET 8) |
+| [ExpressionInterpreterCSharp](https://github.com/oThiagoBraziellas/ExpressionInterpreterCSharp) | C# | Math expression lexer, parser and evaluator (.NET 8) |
+
+---
+
+
 # Connect With Me
 
 <p align="left">
