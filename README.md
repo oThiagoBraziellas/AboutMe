@@ -360,6 +360,13 @@ Systems and algorithms I build from scratch, with tests and no external dependen
 | [ChatRooms](https://github.com/oThiagoBraziellas/ChatRooms) | JavaScript | Multi-tab chat rooms using BroadcastChannel |
 | [DrawingBoard](https://github.com/oThiagoBraziellas/DrawingBoard) | JavaScript | Canvas drawing board with undo/redo and PNG export |
 | [ImageGallery](https://github.com/oThiagoBraziellas/ImageGallery) | JavaScript | Responsive gallery with lazy loading and lightbox |
+| [KanbanBoard](https://github.com/oThiagoBraziellas/KanbanBoard) | JavaScript | Kanban board with native drag and drop |
+| [MiniFramework](https://github.com/oThiagoBraziellas/MiniFramework) | JavaScript | Virtual DOM library in about 500 lines |
+| [Spreadsheet](https://github.com/oThiagoBraziellas/Spreadsheet) | JavaScript | In-browser spreadsheet with its own formula engine |
+| [StateStore](https://github.com/oThiagoBraziellas/StateStore) | JavaScript | Redux-style state manager built from scratch |
+| [TodoApp](https://github.com/oThiagoBraziellas/TodoApp) | JavaScript | Todo app with filters, URL routing and persistence |
+| [VirtualList](https://github.com/oThiagoBraziellas/VirtualList) | JavaScript | Windowed list that renders only visible rows |
+| [WeatherDashboard](https://github.com/oThiagoBraziellas/WeatherDashboard) | JavaScript | Weather forecast dashboard using public geocoding API |
 
 ---
 
