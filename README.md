@@ -349,6 +349,23 @@ Products change. Architecture should make change easier, not harder.
 
 </p>
 
+## Projetos de portfólio
+
+| Projeto | Stack | O que é |
+|---|---|---|
+| [TaskBoard](https://github.com/oThiagoBraziellas/TaskBoard) | HTML, CSS, JS | Quadro kanban com arrastar e soltar |
+| [PomodoroTimer](https://github.com/oThiagoBraziellas/PomodoroTimer) | HTML, CSS, JS | Temporizador Pomodoro |
+| [ExpenseTracker](https://github.com/oThiagoBraziellas/ExpenseTracker) | HTML, CSS, JS | Controle de gastos com gráfico em canvas |
+| [TicTacToeMinimax](https://github.com/oThiagoBraziellas/TicTacToeMinimax) | HTML, CSS, JS | Jogo da velha com IA minimax |
+| [MarkdownPreview](https://github.com/oThiagoBraziellas/MarkdownPreview) | HTML, CSS, JS | Editor Markdown com preview |
+| [PaletteGenerator](https://github.com/oThiagoBraziellas/PaletteGenerator) | HTML, CSS, JS | Gerador de paletas de cores |
+| [SnakeGame](https://github.com/oThiagoBraziellas/SnakeGame) | HTML, CSS, JS | Jogo da cobrinha |
+| [CafeLandingPage](https://github.com/oThiagoBraziellas/CafeLandingPage) | HTML, CSS | Landing page responsiva |
+| [TodoCli](https://github.com/oThiagoBraziellas/TodoCli) | C# / .NET 8 | Gerenciador de tarefas em linha de comando |
+| [FinanceCalculator](https://github.com/oThiagoBraziellas/FinanceCalculator) | C# / .NET 8 | Juros compostos e Tabela Price |
+
+---
+
 ---
 
 <p align="center">
