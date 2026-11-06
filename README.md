@@ -350,6 +350,16 @@ Systems and algorithms I build from scratch, with tests and no external dependen
 | [ChatServerCSharp](https://github.com/oThiagoBraziellas/ChatServerCSharp) | C# | Async TCP chat server with rooms (.NET 8) |
 | [EventBusCSharp](https://github.com/oThiagoBraziellas/EventBusCSharp) | C# | In-memory async event bus on Channels (.NET 8) |
 | [ExpressionInterpreterCSharp](https://github.com/oThiagoBraziellas/ExpressionInterpreterCSharp) | C# | Math expression lexer, parser and evaluator (.NET 8) |
+| [JobSchedulerCSharp](https://github.com/oThiagoBraziellas/JobSchedulerCSharp) | C# | In-process job scheduler with cron, retries and backoff (.NET 8) |
+| [KeyValueStoreCSharp](https://github.com/oThiagoBraziellas/KeyValueStoreCSharp) | C# | Durable key-value store on a write-ahead log (.NET 8) |
+| [LruCacheCSharp](https://github.com/oThiagoBraziellas/LruCacheCSharp) | C# | Generic LRU cache with O(1) operations (.NET 8) |
+| [MiniRedisCSharp](https://github.com/oThiagoBraziellas/MiniRedisCSharp) | C# | Async TCP server speaking the Redis RESP protocol (.NET 8) |
+| [RateLimiterCSharp](https://github.com/oThiagoBraziellas/RateLimiterCSharp) | C# | Rate limiting library (.NET 8) |
+| [UrlShortenerCSharp](https://github.com/oThiagoBraziellas/UrlShortenerCSharp) | C# | Base62 URL shortener library with CLI (.NET 8) |
+| [WebCrawlerCSharp](https://github.com/oThiagoBraziellas/WebCrawlerCSharp) | C# | Async, polite web crawler (.NET 8) |
+| [ChatRooms](https://github.com/oThiagoBraziellas/ChatRooms) | JavaScript | Multi-tab chat rooms using BroadcastChannel |
+| [DrawingBoard](https://github.com/oThiagoBraziellas/DrawingBoard) | JavaScript | Canvas drawing board with undo/redo and PNG export |
+| [ImageGallery](https://github.com/oThiagoBraziellas/ImageGallery) | JavaScript | Responsive gallery with lazy loading and lightbox |
 
 ---
 
