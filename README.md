@@ -349,10 +349,7 @@ Products change. Architecture should make change easier, not harder.
 
 </p>
 
-## Projetos de portfólio
-
-| Projeto | Stack | O que é |
-|---|---|---|
+---|---|---|
 | [TaskBoard](https://github.com/oThiagoBraziellas/TaskBoard) | HTML, CSS, JS | Quadro kanban com arrastar e soltar |
 | [PomodoroTimer](https://github.com/oThiagoBraziellas/PomodoroTimer) | HTML, CSS, JS | Temporizador Pomodoro |
 | [ExpenseTracker](https://github.com/oThiagoBraziellas/ExpenseTracker) | HTML, CSS, JS | Controle de gastos com gráfico em canvas |
